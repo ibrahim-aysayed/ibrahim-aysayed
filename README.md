@@ -1,4 +1,8 @@
-## 👋 About Me
+# 👋 Hi, I'm Ibrahim Ayman
+
+### Data Analyst | MIS & Business Intelligence | Power BI | SQL | Python
+
+## 👨‍💻 About Me
 
 I'm Ibrahim Ayman, a Data Analyst & MIS Specialist with 3+ years of experience in the BPO industry.
 
@@ -10,37 +14,84 @@ I enjoy exploring data, building interactive Power BI dashboards, writing SQL qu
 
 For me, Data Analytics is more than just working with numbers; it's about understanding the story behind the data and using it to solve real business problems.
 
-I'm continuously learning, building practical projects, and exploring new technologies to grow as a Data Analyst.
-
-📍 Giza, Egypt
-
+---
 
 ## 🛠️ Technical Skills
 
-**Programming & Data Analysis**
-- Python | Pandas | NumPy
-- SQL | MySQL
+### Programming & Data Analysis
+- Python
+- Pandas & NumPy
+- SQL & MySQL
 
-**Business Intelligence**
-- Power BI | DAX
-- Tableau
-- Power Query | Data Modeling
+### Business Intelligence & Visualization
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
 - Data Visualization
 
-**Microsoft Excel**
+### Microsoft Excel
 - Advanced Excel
 - Pivot Tables
 - Excel Automation
 
-**Automation & Data Extraction**
+### Automation & Data Extraction
 - API Integration
 - Web Scraping
 - Selenium
-- Win32com | Openpyxl
+- Win32com
+- Openpyxl
 
-**Analytics & Business**
+### Analytics & Reporting
 - Data Cleaning & Transformation
 - Operational Analytics
 - Workforce Analytics
 - KPI Reporting
 - Reporting Automation
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Amazon Web Scraping
+Extracting product information from Amazon using Python.
+
+### 2. Crypto API Data Automation
+Automating cryptocurrency data extraction and analysis using CoinMarketCap API.
+
+### 3. End-to-End Reporting Automation
+Automating Outlook data extraction, file management, Excel queries, and dashboard refresh processes.
+
+### 4. SQL – Sales & Inventory Management
+Designing relational databases and developing SQL queries for sales and inventory analysis.
+
+### 5. SQL Data Cleaning
+Cleaning and transforming datasets using MySQL.
+
+### 6. Power BI Dashboards
+Developing interactive dashboards to analyze business performance and generate actionable insights.
+
+---
+
+## 📚 Currently Working On
+
+- Developing advanced SQL skills.
+- Building interactive Power BI dashboards.
+- Improving Python automation workflows.
+- Exploring advanced data analytics techniques.
+
+---
+
+## 📄 My Resume
+
+[![Download CV](https://img.shields.io/badge/Download-My_CV-21EBAE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Ibrahim-Ayman-CV.pdf)
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ibrahimayman55/)
+- Email: Your Email Address
+
+---
+⭐ Always learning, building, and turning data into insights.
