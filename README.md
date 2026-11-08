@@ -85,7 +85,7 @@ Developing interactive dashboards to analyze business performance and generate a
 
 ## 📄 My Resume
 
-[![Download CV](https://github.com/ibrahim-aysayed/ibrahim-aysayed/blob/main/IBRAHIM%20AYMAN%20SAYED%20IBRAHIM.pdf)
+[![My CV](https://github.com/ibrahim-aysayed/ibrahim-aysayed/blob/main/IBRAHIM%20AYMAN%20SAYED%20IBRAHIM.pdf)
 
 ---
 
