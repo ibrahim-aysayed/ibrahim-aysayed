@@ -25,6 +25,7 @@ For me, Data Analytics is more than just working with numbers; it's about unders
 
 ### Business Intelligence & Visualization
 - Power BI
+- Tableau
 - DAX
 - Power Query
 - Data Modeling
@@ -84,14 +85,16 @@ Developing interactive dashboards to analyze business performance and generate a
 
 ## 📄 My Resume
 
-[![Download CV](https://img.shields.io/badge/Download-My_CV-21EBAE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Ibrahim-Ayman-CV.pdf)
+[![Download CV](https://github.com/ibrahim-aysayed/ibrahim-aysayed/blob/main/IBRAHIM%20AYMAN%20SAYED%20IBRAHIM.pdf)
 
 ---
 
 ## 📫 Contact Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ibrahimayman55/)
-- Email: Your Email Address
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ibrahimayman55/)
+- Email:  [My E-mail](ibrahim.aysayed@gmail.com)
+- WhatsApp : [My WhatsApp](+201154759933)
+- Phone : [My Phone](+201154759933)
 
 ---
 ⭐ Always learning, building, and turning data into insights.
