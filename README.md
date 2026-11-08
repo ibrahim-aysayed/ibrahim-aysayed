@@ -13,3 +13,33 @@ For me, Data Analytics is more than just working with numbers; it's about unders
 I'm continuously learning, building practical projects, and exploring new technologies to grow as a Data Analyst.
 
 📍 Giza, Egypt
+
+
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+- Python | Pandas | NumPy
+- SQL | MySQL
+
+**Business Intelligence**
+- Power BI | DAX
+- Power Query | Data Modeling
+- Data Visualization
+
+**Microsoft Excel**
+- Advanced Excel
+- Pivot Tables
+- Excel Automation
+
+**Automation & Data Extraction**
+- API Integration
+- Web Scraping
+- Selenium
+- Win32com | Openpyxl
+
+**Analytics & Business**
+- Data Cleaning & Transformation
+- Operational Analytics
+- Workforce Analytics
+- KPI Reporting
+- Reporting Automation
