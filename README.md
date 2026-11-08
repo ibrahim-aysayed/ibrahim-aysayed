@@ -23,6 +23,7 @@ I'm continuously learning, building practical projects, and exploring new techno
 
 **Business Intelligence**
 - Power BI | DAX
+- Tableau
 - Power Query | Data Modeling
 - Data Visualization
 
