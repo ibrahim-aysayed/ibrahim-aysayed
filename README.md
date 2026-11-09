@@ -92,6 +92,7 @@ Developing interactive dashboards to analyze business performance and generate a
 ## 📫 Contact Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ibrahimayman55/)
+- Portfolio: [My Portfolio](https://ibrahim-aysayed.pages.dev/)
 - Email: ibrahim.aysayed@gmail.com
 - WhatsApp & Phone: +201154759933
 
